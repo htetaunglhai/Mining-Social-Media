@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <identifier>iranian_tweets_csv_hashed</identifier>
+  <mediatype>texts</mediatype>
+  <collection>opensource</collection>
+  <description>&lt;pre style="white-space:pre-wrap;"&gt;This datasets includes all public, nondeleted Tweets and media (e.g., images and videos) from accounts Twitter believe ares connected to Iranian state-backed information operations. Tweets deleted by these users prior to their suspension (which are not included in these datasets) generally comprise less than 1% of their overall activity. Note that not all of the accounts we identified as connected to these campaigns actively Tweeted, so the number of accounts represented in the datasets may be less than the total number of accounts listed on the Twitter Elections Integrity website (&lt;a href="https://about.twitter.com/en_us/values/elections-integrity.html#data" rel="nofollow"&gt;https://about.twitter.com/en_us/values/elections-integrity.html#data&lt;/a&gt;).&lt;br /&gt;&lt;/pre&gt;&lt;pre style="white-space:pre-wrap;"&gt;From: Twitter Elections Integrity Datasets
+Version 1.2
+June 13, 2019
+
+For information about Twitter's election integrity efforts, as well as updates to these datasets, please see https://about.twitter.com/en_us/values/elections-integrity.html#data.&lt;/pre&gt;</description>
+  <scanner>Internet Archive HTML5 Uploader 1.6.4</scanner>
+  <subject>Twitter</subject>
+  <title>iranian_tweets_csv_hashed</title>
+  <subject>elections</subject>
+  <subject>data</subject>
+  <subject>integrity</subject>
+  <publicdate>2019-08-16 04:31:38</publicdate>
+  <uploader>lam.vo@buzzfeed.com</uploader>
+  <addeddate>2019-08-16 04:31:38</addeddate>
+  <curation>[curator]validator@archive.org[/curator][date]20190816043230[/date][comment]checked for malware[/comment]</curation>
+  <language>English</language>
+  <identifier-access>http://archive.org/details/iranian_tweets_csv_hashed</identifier-access>
+  <identifier-ark>ark:/13960/t7vn2346q</identifier-ark>
+  <backup_location>ia906909_10</backup_location>
+</metadata>
